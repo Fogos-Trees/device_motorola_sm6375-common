@@ -202,6 +202,7 @@
             <Limit name="concurrent-instances" max="3" />
             <Limit name="performance-point-4096x2304" value="30" />
             <Limit name="performance-point-3840x2160" value="60" />
+            <Include href="media_codecs_dolby_audio.xml" />
         </MediaCodec>
         <MediaCodec name="c2.qti.vp9.decoder.secure" type="video/x-vnd.on2.vp9" >
             <Alias name="OMX.qcom.video.decoder.vp9.secure"/>
