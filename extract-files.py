@@ -20,6 +20,7 @@ from extract_utils.main import (
 
 namespace_imports = [
     'device/motorola/sm6375-common',
+    'vendor/motorola/fogos'
     'hardware/qcom-caf/common/libqti-perfd-client',
     'hardware/qcom-caf/sm8350',
     'hardware/qcom-caf/wlan',
