@@ -1130,3 +1130,6 @@ vendor/lib64/libdiag_system.qti.so
 vendor/lib64/libqape.qti.so
 vendor/lib64/libqesdk_ndk_platform.qti.so
 vendor/lib64/liblistenjni.qti.so
+
+vendor/lib64/libarcsoft_super_night_se_raw.so
+vendor/lib64/libarcsoft_portrait_super_night_se_raw.so
