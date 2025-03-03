@@ -1131,8 +1131,11 @@ vendor/lib64/liblistenjni.qti.so
 
 vendor/lib64/libarcsoft_super_night_se_raw.so
 vendor/lib64/libarcsoft_portrait_super_night_se_raw.so
+
 vendor/lib/liblistensoundmodel2.qti.so
 vendor/lib/vendor.qti.qesdhal@1.0.so
 vendor/lib/vendor.qti.qesdhal@1.1.so
 vendor/lib/vendor.qti.qesdhal@1.2.so
 vendor/lib/libmdmdetect.so
+vendor/lib64/liblistensoundmodel2.qti.so
+
