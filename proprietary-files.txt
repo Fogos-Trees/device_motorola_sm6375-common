@@ -1137,5 +1137,11 @@ vendor/lib/vendor.qti.qesdhal@1.0.so
 vendor/lib/vendor.qti.qesdhal@1.1.so
 vendor/lib/vendor.qti.qesdhal@1.2.so
 vendor/lib/libmdmdetect.so
+vendor/lib/liblsmclient.so
+vendor/lib/vendor.qti.qesdhalaidl-V1-ndk.so
 vendor/lib64/liblistensoundmodel2.qti.so
-
+vendor/lib64/liblsmclient.so
+vendor/lib64/vendor.qti.qesdhal@1.0.so
+vendor/lib64/vendor.qti.qesdhal@1.1.so
+vendor/lib64/vendor.qti.qesdhal@1.2.so
+vendor/lib64/vendor.qti.qesdhalaidl-V1-ndk.so
